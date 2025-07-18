@@ -1,0 +1,6 @@
+id,deepfake,image,video
+1,deepfake/1.mp4,image/1.jpg,video/1.mp4
+2,deepfake/2.mp4,image/2.jpeg,video/2.mp4
+3,deepfake/3.mp4,image/3.jpg,video/3.mp4
+4,deepfake/4.mp4,image/4.jpg,video/4.mp4
+5,deepfake/5.mov,image/5.jpg,video/5.mov
